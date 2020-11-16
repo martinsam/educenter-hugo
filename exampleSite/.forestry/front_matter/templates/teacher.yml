@@ -47,5 +47,6 @@ fields:
   label: type
   default: teacher
 pages:
+- exampleSite/content/french/teacher/le-maire-et-les-elu-e-s/_index.md
 - exampleSite/content/french/teacher/samuel-martin.md
 - exampleSite/content/french/teacher/test folder/_index.md.md

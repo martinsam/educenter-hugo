@@ -48,3 +48,4 @@ fields:
   default: teacher
 pages:
 - exampleSite/content/french/teacher/samuel-martin.md
+- exampleSite/content/french/teacher/test folder/_index.md.md
